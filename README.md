@@ -1,4 +1,4 @@
-# Referral/RGR_Channel_Performance
+# Referral/RGR Channel Performance
 ‘Rider Get Rider’ or ‘RGR’ is an incentivised referral scheme targeting riders of an online food-delivery company
 
 **Objective:**
