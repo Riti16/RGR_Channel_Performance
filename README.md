@@ -22,11 +22,3 @@
 13. Succussful_referrals_cumulative – the cumulative number of successful referrals made by that rider to date
 
 
-**Overview:**
-
-1.Manipulate data to draw insights
-
-2.Consider and deal with ‘edge cases’ or ‘irregularities’ in the data
-
-3.Discuss what can be done next, such as what other data will bring this research to life more
-
