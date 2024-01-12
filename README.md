@@ -21,4 +21,5 @@
 12. Referrals_cumulative – The cumulative number of referrals made by that rider to date
 13. Succussful_referrals_cumulative – the cumulative number of successful referrals made by that rider to date
 
-
+**Additional:**
+Hypothesis testing - Impact of time to start work on throughput and referral 
